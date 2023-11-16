@@ -1,2 +1,2 @@
 # DioPraticRepo
-Repositorio para projetos praticos do curso da Dio.
+Repositorio para aulas praticas do curso da Dio.
