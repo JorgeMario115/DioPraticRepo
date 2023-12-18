@@ -23,7 +23,7 @@ No repositório local criei a pasta aulaGitGithub com um README dentro dela
 ```
 
 ``` 
- git staus 
+ git status 
 ```
 
 ![git status03](https://github.com/JorgeMario115/DioPraticRepo/blob/main/aulaGitGithub/assets/img/Captura%20de%20tela%20de%202023-11-16%2013-57-35.png)
